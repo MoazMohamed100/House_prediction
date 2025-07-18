@@ -6,7 +6,7 @@ This project predicts house sale prices using structured data and a machine lear
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://youtu.be/-nLNFz8xcP0)  
+[![Watch the Demo](House_Price_Predicition.mp4)  
 ▶️ Click above to watch the 5-minute demo video.
 
 ---
