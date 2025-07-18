@@ -56,7 +56,7 @@ This project predicts house sale prices using structured data and a machine lear
 
 ## 🔗 Social Media Promotion
 
-- 🔹 [LinkedIn Post](https://www.linkedin.com/in/your-profile/)
+- 🔹 [LinkedIn Post](https://www.linkedin.com/posts/moaz-mohamed-9211a32a4_machinelearning-datascience-streamlit-activity-7352064400846897154-TJ5Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElaz2kBQ-8YsYbMqBWk1WJHYE2Cs4Kv7xE)
 - 🔹 [YouTube Demo](https://youtu.be/-nLNFz8xcP0)
 ---
 
