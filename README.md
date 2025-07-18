@@ -30,10 +30,10 @@ This project predicts house sale prices using structured data and a machine lear
 ## 📈 Visualizations
 
 ### 🔹 Sale Price Distribution
-![Sale Price Distribution](output1.png)
+![Sale Price Distribution](output.png)
 
 ### 🔹 Feature Correlation Heatmap
-![Heatmap](output.png)
+![Heatmap](output1.png)
 
 ---
 
