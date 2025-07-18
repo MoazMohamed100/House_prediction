@@ -35,9 +35,6 @@ This project predicts house sale prices using structured data and a machine lear
 ### 🔹 Feature Correlation Heatmap
 ![Heatmap](media/heatmap.png)
 
-### 🔹 Feature Importance
-![Feature Importance](media/feature_importance.png)
-
 ---
 
 ## 🧠 Model Summary
