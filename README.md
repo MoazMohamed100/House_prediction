@@ -50,7 +50,7 @@ This project predicts house sale prices using structured data and a machine lear
 
 ## 📄 Presentation Slides
 
-📥 [Download Slides (PDF)](presentation/HousePricePrediction_Slides.pdf)
+📥 [Download Slides ](House_Price_Prediction_Presentation.pptx)
 
 ---
 
