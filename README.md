@@ -57,7 +57,7 @@ This project predicts house sale prices using structured data and a machine lear
 ## 🔗 Social Media Promotion
 
 - 🔹 [LinkedIn Post](https://www.linkedin.com/in/your-profile/)
-- 🔹 [YouTube Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+- 🔹 [YouTube Demo](https://youtu.be/-nLNFz8xcP0)
 ---
 
 ## 🛠 How to Run
