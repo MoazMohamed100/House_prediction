@@ -13,7 +13,7 @@ This project predicts house sale prices using structured data and a machine lear
 
 ## 🚀 Live App
 
-🔗 [Try the Web App on Streamlit](https://your-streamlit-app-link.streamlit.app)
+🔗 [Try the Web App on Streamlit](https://houseprediction-id9cwetbowd8blausjihe8.streamlit.app)
 
 ---
 
